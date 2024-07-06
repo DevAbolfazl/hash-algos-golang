@@ -1,1 +1,1 @@
-# hash-algos-golang
+# Hash Algorithms For Go (Golang)
